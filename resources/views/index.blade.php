@@ -1,7 +1,7 @@
 <?php
  $facebook="https://www.facebook.com/olorunfunmilayo.adesolarachael";
  $twitter="#";
- $whatsapp="https://wa.me/message/JTY6UUC5KSPLB1";
+ $whatsapp="https://wa.me/2347035190263";
  $email="mailto:gtreasure162@gmail.com";
  ?>
 
@@ -18,8 +18,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets_2/img/favicon.png" rel="icon">
-  <link href="assets_2/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <!-- <link href="assets_2/img/favicon.png" rel="icon">
+  <link href="assets_2/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -92,7 +92,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Become a Globally Sought-After and Highly Paid Website Designer</h1>
+          <h1 data-aos="fade-up">Become a Globally Sought-After and Highly Paid website_designer</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">Step-by-step guide on how to design websites for clients within and outside Your Country</h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">

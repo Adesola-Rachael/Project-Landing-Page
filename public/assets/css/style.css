@@ -1286,8 +1286,8 @@ section {
 .social  a{
   font-size: 18px;
   display: inline-block;
-  background: #fff;
-  color: #007bff;
+  background: #007bff;
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
