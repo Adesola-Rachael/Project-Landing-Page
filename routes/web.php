@@ -15,10 +15,10 @@ use App\Http\Controllers\paymentController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('test');
 });
 Route::get('index',[paymentController::class,'index'] );
-
+Route::get('sola',[paymentController::class,'sola'] );
 //Route::get('/',[paymentController::class,'index'] );
 
 Route::any('/payment_page',[paymentController::class,'payment'] );

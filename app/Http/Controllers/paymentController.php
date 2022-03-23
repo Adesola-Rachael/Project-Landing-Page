@@ -13,6 +13,12 @@ class paymentController extends Controller
     public function index(){
       return  view('index');
    }
+   public function test(){
+    return  view('test');
+ }
+ public function sola(){
+  return  view('sola');
+}
     //public function verify(Request $request){
       //return $request->transaction_id;
       //     $curl = curl_init();
