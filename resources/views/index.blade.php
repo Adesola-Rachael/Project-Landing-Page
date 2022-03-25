@@ -135,7 +135,7 @@
           </div>
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="assets_2/img/bookcover.jpg" style="margin:10px auto; height:400px" class="img-fluid" alt="">
+            <img src="assets_2/img/b4.png" style="margin:10px auto; height:400px" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -263,7 +263,7 @@
         <div class="row">
 
           <div class="col-lg-6">
-            <img src="assets_2/img/bookcover.jpg" style="margin-left:20px; height:400px" class="img-fluid" alt="">
+            <img src="assets_2/img/b4.png" style="margin-left:20px; height:400px" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-6 mt-5 mt-lg-0 d-flex">
