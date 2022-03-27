@@ -150,7 +150,7 @@
 
         <header class="section-header">
           <!-- <h2>Other Benefits</h2> -->
-          <p>Other Bonuses You Will Get</p>
+          <p>Other Bonuses</p>
         </header>
 
         <div class="row">

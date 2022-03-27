@@ -10,9 +10,12 @@ class paymentController extends Controller
     public function payment(Request $request){
        return  view('payment_page');
     }
-    public function ericlhenser(Request $request){
+    public function ericlhenser(){
       return  view('ericlhenser');
    }
+   public function pascalMarketing(){
+    return  view('pascal_marketing');
+ }
 
   //   public function index(){
   //     return  view('index');

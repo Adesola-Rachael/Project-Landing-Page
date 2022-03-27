@@ -22,6 +22,8 @@ Route::get('/test',[paymentController::class,'test'] );
 Route::get('/sola',[paymentController::class,'sola'] );
 //Route::get('/',[paymentController::class,'index'] );
 Route::get('/ericlhenser',[paymentController::class,'ericlhenser'] );
+// for pascal
+Route::get('/pascal_marketing',[paymentController::class,'pascalMarketing'] );
 
 Route::any('/payment_page',[paymentController::class,'payment'] );
 Route::any('/verify-payment',[paymentController::class, 'verify']);
