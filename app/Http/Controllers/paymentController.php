@@ -26,6 +26,19 @@ class paymentController extends Controller
  public function sola(){
   return  view('sola');
 }
+public function caleb(){
+  return  view('caleb');
+}
+public function kelvin(){
+  return  view('kelvin');
+}
+public function kel(){
+  return  view('kel');
+}
+public function kelvinogunbiyi(){
+  return  view('kelvinogunbiyi');
+}
+  
     //public function verify(Request $request){
       //return $request->transaction_id;
       //     $curl = curl_init();

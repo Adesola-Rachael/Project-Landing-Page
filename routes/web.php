@@ -25,6 +25,12 @@ Route::get('/ericlhenser',[paymentController::class,'ericlhenser'] );
 // for pascal
 Route::get('/pascal_marketing',[paymentController::class,'pascalMarketing'] );
 
+Route::get('/caleb',[paymentController::class,'caleb'] );
+Route::get('/kelvin',[paymentController::class,'kelvin'] );
+Route::get('/kel',[paymentController::class,'kel'] );
+Route::get('/kelvinogunbiyi',[paymentController::class,'kelvinogunbiyi'] );
+
+
 Route::any('/payment_page',[paymentController::class,'payment'] );
 Route::any('/verify-payment',[paymentController::class, 'verify']);
 // Route::any('/paystack',[paymentController::class, 'paystack']);\
