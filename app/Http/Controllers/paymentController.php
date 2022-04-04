@@ -21,8 +21,8 @@ class paymentController extends Controller
       $clientIP = request()->ip();
       $newIp=rand().$clientIP ;
       $msg=$newIp.'Visited your website landing page';
-      mail("vic650283@gmail.com","Landing Page Visit",$msg);
-      return  view('index');
+      $send=mail("gtreasure162@gmail.com","Landing Page Visit",$msg);
+      return  view('index',compact('send'));
       
       
    }
