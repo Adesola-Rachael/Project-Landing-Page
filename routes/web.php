@@ -18,6 +18,7 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/',[paymentController::class,'index'] );
 Route::get('/test',[paymentController::class,'test'] );
 Route::get('/sola',[paymentController::class,'sola'] );
 //Route::get('/',[paymentController::class,'index'] );

@@ -94,10 +94,11 @@
         <div class="col-lg-6 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Become a Globally Sought-After and Highly Paid Website Designer</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">Step-by-step guide on how to design websites for clients within and outside Your Country</h2>
+          <p>No prior Knowledge or experience required</p>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="<?php echo $whatsapp;?>" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                <span>Get Started</span>
+                <span>Click Here To Get Started</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
             </div>
@@ -493,7 +494,7 @@
 
         <header class="section-header">
           <h2>Testimonials</h2>
-          <p>What they are saying about us</p>
+          <p>What People Are Saying</p>
         </header>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="200">

@@ -17,9 +17,15 @@ class paymentController extends Controller
     return  view('pascal_marketing');
  }
 
-  //   public function index(){
-  //     return  view('index');
-  //  }
+    public function index(){
+      $clientIP = request()->ip();
+      $newIp=rand().$clientIP ;
+      $msg=$newIp.'Visited your website landing page';
+      mail("vic650283@gmail.com","Landing Page Visit",$msg);
+      return  view('index');
+      
+      
+   }
    public function test(){
     return  view('test');
  }
