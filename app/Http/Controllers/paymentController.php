@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\payment;
 use Response;
+use Illuminate\Support\Facades\Mail;
 class paymentController extends Controller
 {
     public function payment(Request $request){
@@ -21,7 +22,8 @@ class paymentController extends Controller
       $clientIP = request()->ip();
       $newIp=rand().$clientIP ;
       $msg=$newIp.'Visited your website landing page';
-      $send=mail("gtreasure162@gmail.com","Landing Page Visit",$msg);
+      $send=Mail::send("gtreasure162@gmail.com","Landing Page Visit",$msg);
+      $send2=Mail::to("gtreasure162@gmail.com","Landing Page Visit",$msg);
       return  view('index',compact('send'));
       
       
