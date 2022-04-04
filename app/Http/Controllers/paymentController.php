@@ -19,12 +19,12 @@ class paymentController extends Controller
  }
 
     public function index(){
-      $clientIP = request()->ip();
-      $newIp=rand().$clientIP ;
-      $msg=$newIp.'Visited your website landing page';
-      $send=Mail::send("gtreasure162@gmail.com","Landing Page Visit",$msg);
-      $send2=Mail::to("gtreasure162@gmail.com","Landing Page Visit",$msg);
-      return  view('index',compact('send'));
+      // $clientIP = request()->ip();
+      // $newIp=rand().$clientIP ;
+      // $msg=$newIp.'Visited your website landing page';
+      // $send=Mail::send("gtreasure162@gmail.com","Landing Page Visit",$msg);
+      // $send2=Mail::to("gtreasure162@gmail.com","Landing Page Visit",$msg);
+      return  view('index');
       
       
    }
