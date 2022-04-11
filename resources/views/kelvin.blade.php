@@ -1,7 +1,9 @@
 <?php
 $email="#";
 $instagram="#";
-$whatsapp="https://tinyurl.com/5xaanbm2";
+// $whatsapp="https://tinyurl.com/5xaanbm2";
+$whatsapp="#";
+
 $facebook="#";
 $linkedin="#";
 $twitter="#";

@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\payment;
 use Response;
-use Illuminate\Support\Facades\Mail;
+// use Illuminate\Support\Facades\Mail;
 class paymentController extends Controller
 {
     public function payment(Request $request){
