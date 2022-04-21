@@ -104,7 +104,7 @@ $twitter="#";
        <!--Pascal Landing Page: FREE Video Reveals A Proven, no fail system I use to make 100 to 200k monthly-->
       
       <div class="hero-info" data-aos="zoom-in" data-aos-delay="100">
-        <h2 style="color:#000" >Are you ready  <br><span style="color:#008000;"> to Achieve Financial </span><br>Indepence in 2022?</h2>
+        <h2 style="color:#000" >Are you ready  <br><span style="color:#008000;"> to Achieve Financial </span><br>Independence in 2022?</h2>
         <div>
           <a href="<?php echo $whatsapp;  ?>" style="border-radius:15px" class="btn btn-success"><i class="bi bi-whatsapp" style="margin:5px; font-size: 20px;"></i>Click Here To Get Started</a>
  
@@ -141,7 +141,7 @@ $twitter="#";
             <h2 class="btn btn-success "  style="border-radius:15px; "><a style="color:#fff; font-size:20px;" href="<?php echo $whatsapp;  ?>" >Download Your Free Guide Now!</a></h2>
             <p > My name is Coach Kelvin, a successful online business coach/mentor.  </p>
             <p>I love helping people. Let me help </p>
-            <p>In the last 11 months, I have helped over 402 Nigerians start their journey towards financial Indepence. I am here to help you. </p>
+            <p>In the last 11 months, I have helped over 402 Nigerians start their journey towards financial Independence. I am here to help you. </p>
             <p>This is why I am giving you a Free Guide on profitable businesses that has made a lot of young Nigerians like you achieve financial independence  and stability</p>
             <p>If you have been looking for ways to make money online without losing money, this Free Guide is for you.</p>
             <p>If you have been looking for ways out of financial struggles, this Free Guide is for you.</p>

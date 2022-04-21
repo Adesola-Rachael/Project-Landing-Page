@@ -92,7 +92,7 @@ $twitter="#";
       </div>
 
       <div class="hero-info" data-aos="zoom-in" data-aos-delay="100">
-         <h2>A Free Guide<br><span>to Achieve Financial</span><br>Indepence in 2022</h2>
+         <h2>A Free Guide<br><span>to Achieve Financial</span><br>Independence in 2022</h2>
         <div>
           <a href="<?php echo $whatsapp;  ?>"  class="btn-get-started "><i class="bi bi-whatsapp" style="margin:5px; font-size: 20px;"></i>Give me my copy of the FREE GUIDE now</a>
  
@@ -129,7 +129,7 @@ $twitter="#";
             <!-- <h4>Online Business Today</h4> -->
             <p > My name is Coach Kelvin, a successful online business coach/mentor.  </p>
             <p>I love helping people. Let me help </p>
-            <p>In the last 11 months, I have helped over 402 Nigerians start their journey towards financial Indepence. I am here to help you. </p>
+            <p>In the last 11 months, I have helped over 402 Nigerians start their journey towards financial Independence. I am here to help you. </p>
             <p>This is why I am giving you a Free Guide on profitable businesses that has made a lot of young Nigerians like you achieve financial independence  and stability</p>
             <p>If you have been looking for ways to make money online without losing money, this Free Guide is for you.</p>
             <p>If you have been looking for ways out of financial struggles, this Free Guide is for you.</p>
