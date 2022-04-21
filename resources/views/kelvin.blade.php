@@ -139,7 +139,7 @@ $twitter="#";
           </div>
           <div class="col-lg-6 pt-5 pt-lg-0 abo" data-aos="fade-left">
             <h2 class="btn btn-success "  style="border-radius:15px; "><a style="color:#fff; font-size:20px;" href="<?php echo $whatsapp;  ?>" >Download Your Free Guide Now!</a></h2>
-            <p > My name is Coach Kelvin, a successful online business coach/mentor.  </p>
+            <p > My name is Coach John, a successful online business coach/mentor.  </p>
             <p>I love helping people. Let me help </p>
             <p>In the last 11 months, I have helped over 402 Nigerians start their journey towards financial Independence. I am here to help you. </p>
             <p>This is why I am giving you a Free Guide on profitable businesses that has made a lot of young Nigerians like you achieve financial independence  and stability</p>
