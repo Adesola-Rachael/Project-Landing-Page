@@ -413,7 +413,7 @@
               Nigeria<br>
               <br>
               <strong>Phone:</strong> +234 081657865567<br>
-              <strong>Email:</strong> info@example.com<br>
+              <!-- <strong>Email:</strong> info@example.com<br> -->
             </p>
 
             <div class="social-links">
