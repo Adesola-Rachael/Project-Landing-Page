@@ -39,6 +39,9 @@ Route::any('/verify-payment',[paymentController::class, 'verify']);
 Route::get('/verify-pay/{reference}',[paymentController::class, 'verifyPay']);
 Route::post('postdata',[paymentController::class, 'postData']);
 
+Route::get('/car_tracking_installation',[paymentController::class,'carTracker'] );
+
+
 
 Route::get('/calc',function(){
  return view('calc');

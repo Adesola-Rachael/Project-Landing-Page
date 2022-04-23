@@ -46,6 +46,9 @@ public function kel(){
 public function kelvinogunbiyi(){
   return  view('kelvinogunbiyi');
 }
+public function carTracker(){
+  return  view('car_tracking_installation');
+}
   
     //public function verify(Request $request){
       //return $request->transaction_id;
