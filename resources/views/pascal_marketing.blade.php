@@ -406,7 +406,7 @@ $twitter="https://twitter.com/iampascal_odoh";
               Lagos State <br>
               Nigeria<br>
               <br>
-              <strong>Phone:</strong> +234 8151617813<br>
+              <strong>Phone:</strong> +2347061257833<br>
               <!-- <strong>Email:</strong> pascal.odoh2@gmail.com<br> -->
             </p>
 
