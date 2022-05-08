@@ -319,7 +319,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p><span style="color: #000000;"><strong><span style="color: #800000;">Fix the ROOT CAUSE</span> of your body odour, bad breath and vaginal odour, rather than simply mask the SYMPTOMS, and say goodbye to the embarrassment and humiliation <span style="color: #ff0000;">FOREVER!</span></strong></span><br />
 <span style="color: #800000;"><strong>“Does that sound like something you want?”</strong></span><br />
 <span style="color: #000000;"><strong></strong></span></p>
-<p style="text-align: center;"><img loading="lazy" src="assets_2/img/bn.jpg" alt="" width="469" height="264" class="alignnone wp-image-63" srcset="assets_2/img/bn.jpg 300w, assets_2/img/bn.jpg 768w, assets_2/img/bn.jpg 770w" sizes="(max-width: 469px) 100vw, 469px" /></p> 
+<p style="text-align: center;"><img loading="lazy" src="assets/img/b4.jpg" alt="" width="469" height="264" class="alignnone wp-image-63" srcset="assets_2/img/bn.jpg 300w, assets_2/img/bn.jpg 768w, assets_2/img/bn.jpg 770w" sizes="(max-width: 469px) 100vw, 469px" /></p> 
 
 <!-- click here button -->
 <div class="row">
@@ -358,11 +358,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <!-- <p style="text-align: center; with"><a href="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"><span style="color: #ff0000;"><strong><img loading="lazy" src="http://stayfitcentre.name.ng/wp-content/uploads/2021/11/whats-up.png" alt="" width="300" height="97" class="alignnone size-full wp-image-96" /></strong></span></a></p> -->
 
 <div class="row">
-	<div class="col-sm-4"><img loading="lazy" src="assets_2/img/b01.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
+	<div class="col-sm-4"><img loading="lazy" src="assets/img/b1.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
 	</div>
-	<div class="col-sm-4"><img loading="lazy" src="assets_2/img/b02.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
+	<div class="col-sm-4"><img loading="lazy" src="assets/img/b2.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
 	</div>
-	<div class="col-sm-4"><img loading="lazy" src="assets_2/img/b03.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
+	<div class="col-sm-4"><img loading="lazy" src="assets/img/b3.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
 	</div>
 </div>
 
