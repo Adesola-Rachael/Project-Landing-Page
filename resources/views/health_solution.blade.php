@@ -246,7 +246,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					</div>
 					</nav>
 				</header> 
-<div id="primary" style="background:#000080;" class="boxed-layout-header page-header header-small" data-parallax="active" ><div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-center"><h1 class="hestia-title ">SAY GOODBYE TO UNPLEASANT BODY ODOUR, HORRIBLE BAD BREATH  &#038;  VAGINAL ODOUR NATURALLY WITHOUT ANY SIDE EFFECTS</h1></div></div></div></div><div class="main  main-raised ">
+<div id="primary" style="background:#000137;" class="boxed-layout-header page-header header-small" data-parallax="active" ><div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-center"><h1 class="hestia-title ">SAY GOODBYE TO UNPLEASANT BODY ODOUR, HORRIBLE BAD BREATH  &#038;  VAGINAL ODOUR NATURALLY WITHOUT ANY SIDE EFFECTS</h1></div></div></div></div><div class="main  main-raised ">
 		<div class="blog-post ">
 		<div class="container">
     
@@ -256,17 +256,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<article id="post-49" class="section section-text">
 		<div class="row">
 						<div class="col-md-8 page-content-wrap  col-md-offset-2">
-				<h4 style="text-align: center;"><span style="color: #000;"><b>100% Natural Remedies To Eradicate The Root Causes Of  <span style="color: #0000ff;">Body Odour</span>,<span style="color: #0000ff;">  Bad Breath</span><span style="color: #0000ff;"> And Vaginal Odour</span>  From The Internal System Without Coming Back Ever Again</b></span></h4>
+				<h4 style="text-align: center;"><span style="color: #000;"><b>100% Natural Remedies To Eradicate The Root Causes Of  <span style="color: #800000;">Body Odour</span>,<span style="color: #800000;">  Bad Breath</span><span style="color: #800000;"> And Vaginal Odour</span>  From The Internal System Without Coming Back Ever Again</b></span></h4>
 <p style="text-align: center;"><img src="assets_2/img/bodynew.jpg" alt="" width="726" height="460" class="alignnone wp-image-52" srcset="https://therapycentregist.name.ng/wp-content/uploads/2022/02/MOUBAD-300x190.jpg 300w, assets_2/img/bon.jpg 528w" sizes="(max-width: 726px) 100vw, 726px" /></p>
 <p><span style="color: #000000;"><strong>It's Important To Know That</strong></span></p>
-<p style="text-align: left;"><span style="color: #000000;"><strong>Body odour happens when bacteria on our skin come in contact with sweat. Factors like the foods we eat, exercise, stress, hot weather, hormones or medications can affect body odor.</strong></span></p>
-<p style="text-align: left;"><span style="color: #000000;"><strong>Bad breath also known as halitosis, is characterized by an unpleasant odor of the mouth caused by odor-producing bacteria that grow in the mouth. When you don&#8217;t brush and floss regularly, bacteria accumulate on the bits of food left in the mouth. Bad breath can also be caused by some underlying health condition or diseases. Examples include infection, diabetes and ulcer, if they are not properly treated. Other Causes of bad breath may include food, tobacco products, poor dental hygiene, health problems, dry mouth, oral infections, dental problems, or medications.</strong></span></p>
+<p style="text-align: left;"><span style="color: #000000;"><strong>Body odour happens when bacteria on our skin come in contact with sweat. Factors like the foods we eat, exercise, stress, hot weather, hormones or medications can affect body odour.</strong></span></p>
+<p style="text-align: left;"><span style="color: #000000;"><strong>Bad breath also known as halitosis, is characterized by an unpleasant odour of the mouth caused by odour-producing bacteria that grow in the mouth. When you don&#8217;t brush and floss regularly, bacteria accumulate on the bits of food left in the mouth. Bad breath can also be caused by some underlying health condition or diseases. Examples include infection, diabetes and ulcer, if they are not properly treated. Other Causes of bad breath may include food, tobacco products, poor dental hygiene, health problems, dry mouth, oral infections, dental problems, or medications.</strong></span></p>
  <p><span style="color: #000000;"><strong>Vaginal Odour on the other hand  is any unpleasant odour that comes from the vagina. It’s normal for your vagina to have its own unique smell, but a very strong odour may signal a problem. The Causes of vaginal odour may include Bacterial Vaginosis, Poor Hygiene, Diet, Sweating, and some underlying health conditions.</strong></span></p>
 <p style="text-align: center;"><img loading="lazy" src="https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/32/ds00025_im02080_r7_halitosisthu_jpg.jpg" alt="" width="591" height="382" class="alignnone wp-image-53" /></p>
 <!-- <p style="text-align: center;"><span style="color: #ff0000;"><strong>CAUSES OF BAD BREATH AND MOUTH ODOUR</strong></span></p>
 <p><span style="color: #000000;"><strong><span style="color: #ff0000;">Smelly Foods</span> – oniony, garlicy, or spicy foods can produce bad breath for some time after you eat them. This is a temporary smell and the only solution for this is to brush after eating immediately.</strong></span><br />
 <span style="color: #000000;"><strong><span style="color: #ff0000;"></span></strong></span></p>
-<p><span style="color: #000000;"><strong><span style="color: #ff0000;">Coffee</span> – coffee can cause bad breath due to the strong odor it produces and the caffeine also slows saliva production.</strong></span><br />
+<p><span style="color: #000000;"><strong><span style="color: #ff0000;">Coffee</span> – coffee can cause bad breath due to the strong odour it produces and the caffeine also slows saliva production.</strong></span><br />
 <span style="color: #000000;"><strong><span style="color: #ff0000;"></span></strong></span></p>
 <p><span style="color: #000000;"><strong><span style="color: #ff0000;">Dry mouth</span> – decreased saliva production can cause bad breath. Causes of dry mouth include, smoking, breathing through your mouth, or a medication side effect. Dry mouth could also be a sign of other health concerns.</strong></span><br />
 <span style="color: #000000;"><strong><span style="color: #ff0000;"></span></strong></span></p>
@@ -279,7 +279,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p><span style="color: #000000;"><strong><span style="color: #ff0000;">Disease</span> – diabetes is known to be a cause of bad breath. People who suffer from sinus infections or other respiratory issues are also more likely to experience bad breath.</strong></span></p>
 <p><img loading="lazy" src="http://stayfitcentre.name.ng/wp-content/uploads/2021/11/bad-bb-1-261x300.jpg" alt="" width="525" height="604" class=" wp-image-100 aligncenter" /></p> -->
 <p><span style="color: #000000;"><strong>If you really want to<span style="color: #ff0000;"> Get Rid of body, mouth or vaginal odour Permanently</span>, then you need to read this page to the end to see how myself and many others have used this natural remedy to Get Rid of <span style="color: #ff0000;">Bad Breath</span>, <span style="color: #800000;">underarm odour</span> and<span style="color: #800000;">  and vaginal odour</span> naturally and how you can get yours too.</strong></span></p>
-<p><span style="color: #000000;"><strong>Are you tired of feeling <span style="color: #800000;">Embarrassed</span> and <span style="color: #ff0000;">Humiliated</span> by your bad breath or underarm oour? </strong></span><br />
+<p><span style="color: #000000;"><strong>Are you tired of feeling <span style="color: #800000;">Embarrassed</span> and <span style="color: #ff0000;">Humiliated</span> by your bad breath or underarm odour? </strong></span><br />
 <span style="color: #000000;"><strong></strong></span></p>
 <p><span style="color: #000000;"><strong>Is your condition making you anxious about social situations, and affecting your <span style="color: #800000;">Confidence</span> and <span style="color: #800000;">Self-Esteem</span>? </strong></span><br />
 <span style="color: #000000;"><strong></strong></span></p>
@@ -295,7 +295,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p><span style="color: #000000;"><strong>Do you just wish that there was a quick, cheap and <span style="color: #800000;">100% NATURAL</span> remedy for bad breath, body odour or vaginal odour?</strong></span><br />
 <span style="color: #000000;"><strong>If you answered <span style="color: #ff0000;">“YES”</span> to any of those questions, then you’re in exactly the right place… “Because there is a Solution!” </strong></span><br />
 <span style="color: #000000;"><strong></strong></span></p>
-<p style="text-align: center;"><img loading="lazy" src="assets_2/img/bn.jpg" alt="" width="469" height="264" class="alignnone wp-image-63" srcset="assets_2/img/bn.jpg 300w, assets_2/img/bn.jpg 768w, assets_2/img/bn.jpg 770w" sizes="(max-width: 469px) 100vw, 469px" /></p>
+<!-- click here button -->
+<div class="row">
+	<div class="col-sm-4"></div>
+	<div class="col-sm-6 col-xs-12"><button class="pull-center" style="text-align: center;  background-color:#000137; border-radius:40px;" ><a href="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"><span style="color: #fff;"><strong>Click Here to Get A Copy</strong></span></a></button>
+	</div>
+	<div class="col-sm-4"></div>
+
+</div>
+
+<p><img loading="lazy" src="assets_2/img/b04.jpg" alt="" width="400" height="350" class=" wp-image-88 aligncenter" />
+</p>
+<!-- <p style="text-align: center;"><img loading="lazy" src="assets_2/img/bn.jpg" alt="" width="469" height="264" class="alignnone wp-image-63" srcset="assets_2/img/bn.jpg 300w, assets_2/img/bn.jpg 768w, assets_2/img/bn.jpg 770w" sizes="(max-width: 469px) 100vw, 469px" /></p> -->
 <p><span style="color: #000000;"><strong>I’m going to show you a proven and all-natural remedy for <span style="color: #800000;">Body odour, Bad Breath and Vaginal Odour</span>,which will <span style="color: #ff0000;">HELP</span> you to…</strong></span><br />
 <span style="color: #000000;"><strong></strong></span></p>
 <p><span style="color: #000000;"><strong>Say goodbye to that horrible odour for good.</strong></span><br />
@@ -308,8 +319,21 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <p><span style="color: #000000;"><strong><span style="color: #800000;">Fix the ROOT CAUSE</span> of your body odour, bad breath and vaginal odour, rather than simply mask the SYMPTOMS, and say goodbye to the embarrassment and humiliation <span style="color: #ff0000;">FOREVER!</span></strong></span><br />
 <span style="color: #800000;"><strong>“Does that sound like something you want?”</strong></span><br />
 <span style="color: #000000;"><strong></strong></span></p>
-<p style="text-align: center;"><img loading="lazy" src="assets_2/img/bn.jpg" alt="" width="446" height="165" class="alignnone wp-image-54" srcset="assets_2/img/bn.jpg 300w, assets_2/img/bn.jpg 983w" sizes="(max-width: 446px) 100vw, 446px" /></p>
-<p><span style="color: #000000;"><strong>This Solution will naturally and permanently:</strong></span><br />
+<p style="text-align: center;"><img loading="lazy" src="assets_2/img/bn.jpg" alt="" width="469" height="264" class="alignnone wp-image-63" srcset="assets_2/img/bn.jpg 300w, assets_2/img/bn.jpg 768w, assets_2/img/bn.jpg 770w" sizes="(max-width: 469px) 100vw, 469px" /></p> 
+
+<!-- click here button -->
+<div class="row">
+	<div class="col-sm-4"></div>
+	<div class="col-sm-6 col-xs-12"><button class="pull-center" style="text-align: center;  background-color:#000137; border-radius:40px;" ><a href="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"><span style="color: #fff;"><strong>Click Here to Get A Copy</strong></span></a></button>
+
+	<!-- <div class="col-sm-4 col-xs-12 col-md-4 " ><button class="btn btn-success" style="background-color:#000137; border-radius:30px; width:300;"><a href="https://wa.me/2347035190263" style="color:#fff;">Click Here To Get A Copy</a></button> -->
+	</div>
+	<div class="col-sm-4"></div>
+
+</div>
+
+
+ <p><span style="color: #000000;"><strong>This Solution will naturally and permanently:</strong></span><br />
 <span style="color: #000000;"><strong>Reduce the Bacteria loads in Gum.</strong></span><br />
 <span style="color: #000000;"><strong>Disinfect and purifies the entire digestive system,</strong></span><br />
 <span style="color: #000000;"><strong>Boost immune system and prevent against free radicals that may want to attack the body system</strong></span><br />
@@ -320,16 +344,44 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <span style="color: #000000;"><strong><span style="color: #ff0000;">NO MORE</span> having to spend heaps of money on products that only “mask” the problem</strong></span><br />
 <span style="color: #000000;"><strong><span style="color: #ff0000;">NO MORE</span> living like a recluse, afraid to go out because of your rotten breath</strong></span><br />
 <span style="color: #000000;"><strong><span style="color: #ff0000;">NO MORE</span> losing friends or ruining relationships </strong></span></p>
-<span style="color: #000000;"><strong>You can’t go wrong with this incredible Solutions! </strong></span></p>
 
-<p><a href="https://wa.me/2347035190263"><img loading="lazy" src="assets_2/img/order.jpg" alt="" width="200" height="150" class=" wp-image-88 aligncenter" /></a></p>
-<h4 style="text-align: center;"> Promo Price: <span style="color: #ff0000;"><strong> ₦1,000</strong></span></h4>
-<h4 style="text-align: center;"> Total Value:  <span style="color: #ff0000;"><strong><strike>₦5,000</strike></strong></span></h4>
+<div class="row">
+	<div class="col-sm-3 col-xs-12" ></div>
+	<div class="col-sm-6 col-xs-12"><button class="pull-center" style="text-align: center;  background-color:#800000; border-top-right-radius:40px; border-bottom-left-radius:40px; width:100;height:97" ><span style="color: #fff;"><strong>What People Are Saying</strong></span></button>
+
+	</div>
+	<div class="col-sm-3 col-xs-12"></div>
+
+</div>
+
+<!-- <button class="pull-center" style="text-align: center;  background-color:#800000; border-radius:30px; width:100;height:97" ><a href="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"><span style="color: #fff;"><strong>click here to male pay</strong></span></a></button> -->
+<!-- <p style="text-align: center; with"><a href="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"><span style="color: #ff0000;"><strong><img loading="lazy" src="http://stayfitcentre.name.ng/wp-content/uploads/2021/11/whats-up.png" alt="" width="300" height="97" class="alignnone size-full wp-image-96" /></strong></span></a></p> -->
+
+<div class="row">
+	<div class="col-sm-4"><img loading="lazy" src="assets_2/img/b01.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
+	</div>
+	<div class="col-sm-4"><img loading="lazy" src="assets_2/img/b02.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
+	</div>
+	<div class="col-sm-4"><img loading="lazy" src="assets_2/img/b03.jpg" alt="" width="300" height="150" class=" wp-image-88 aligncenter" />
+	</div>
+</div>
+
+
+
+  <!-- <h4 style="text-align: center;"> Promo Price: <span style="color: #ff0000;"><strong> ₦1,000</strong></span></h4>
+<h4 style="text-align: center;"> Total Value:  <span style="color: #ff0000;"><strong><strike>₦5,000</strike></strong></span></h4> -->
 <!-- <p style="text-align: center;"><span style="color: #ff0000;"><strong>Promo Ends In A  Few Days</strong></span></p> -->
 
- <p style="text-align: center;"><span style="color: #800000;"><strong>You will only get the product at this discounted promo price within just 7days after then the product will go back to the normal price. save Money and get the product at 80% PRICE Slash</strong></span></p>
+ <!-- <p style="text-align: center;"><span style="color: #800000;"><strong>You will only get the product at this discounted promo price within just 7days after then the product will go back to the normal price. save Money and get the product at 80% PRICE Slash</strong></span></p> -->
+ <span style="color: #000000;"><strong>You can’t go wrong with this incredible Solutions! </strong></span></p>
 
  <p style="text-align: center;"><span style="color: #800000;"><strong>You will also have accesss to our 30 days health solution class where you will be taught how to tackle common health issues using natural remedies.</strong></span></p>
+
+
+<p style="text-align: center;"><a href="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"><span style="color: #ff0000;"><strong><img loading="lazy" src="http://stayfitcentre.name.ng/wp-content/uploads/2021/11/whats-up.png" alt="" width="300" height="97" class="alignnone size-full wp-image-96" /></strong></span></a></p>
+<p style="text-align: center;"><span style="color: #800000"><strong>When you use our solution as instructed, you will start to feel the relief from the first 3 days and by the end of 12 days of implementation, your health will fully be restore without any Side Effects.</strong></span></p>
+<h4><strong><span style="color: #000000;">For More Info Kindly Call Us</span> <span style="color: #ff0000;">+2347035190263</span></strong></h4>
+
 
 
 
