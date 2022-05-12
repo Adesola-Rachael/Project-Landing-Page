@@ -1,7 +1,8 @@
 <?php
  $facebook="https://www.facebook.com/olorunfunmilayo.adesolarachael";
  $twitter="#";
- $whatsapp="https://wa.me/2347035190263";
+ $whatsapp="  https://api.whatsapp.com/send?phone=2347035190263&amp;text=My%20name%20is%20(type%20your%20name%20here).%20I'm%20ready%20to%20learn%20Car%20Tracker%20Installation.%20How%20do%20I%20get%20started    
+ ";
  $email="mailto:gtreasure162@gmail.com";
  ?>
 
@@ -92,7 +93,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Make ₦200k-₦250k Montly Installing Car Trackers for Clients. </h1>
+          <h1 data-aos="fade-up">Make 200k-250k Montly Installing Car Trackers for Clients. </h1>
           <h2 data-aos="fade-up" data-aos-delay="400">This is a skill that you can master easily in 2 weeks and start offering it as a serviceto: Big organizations, Government officials, Churches, Private bodies and hosts of others.
 </h2>
          
@@ -125,7 +126,7 @@
               <h3>Car Tracking Skill</h3>
               <h2>CAR TRACKER INSTALLATION is a solid skill that is in high demand now.</h2>
               <p>
-                You don’t need any experience, school certificate, any Technical or computer skills. All You only need is 3-4 hours a week, some cheap tools and a determination to increase your finances.              
+                You don’t need any experience, school certificate, any Technical or computer skills. All You only need is 3-4 hours a week, some cheap tools and a determination to increase your income.              
               </p>
               <div class="text-center text-lg-start">
                 <a href="<?php echo $whatsapp;?>" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
