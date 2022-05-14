@@ -2,7 +2,7 @@
 $email="#";
 $instagram="#";
 // $whatsapp="https://tinyurl.com/5xaanbm2";
-$whatsapp="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I%20need%20a%20copy%20of%20the%20Business%20Ideas";
+$whatsapp="https://api.whatsapp.com/send?phone=2347035190263&amp;text=Hello.%20My%20name%20is%20(type%20your%20name%20here)%20I%20need%20a%20copy%20of%20the%20Business%20Ideas";
 
 $facebook="#";
 $linkedin="#";
