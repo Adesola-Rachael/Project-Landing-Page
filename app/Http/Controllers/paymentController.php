@@ -17,6 +17,12 @@ class paymentController extends Controller
    public function pascalMarketing(){
     return  view('pascal_marketing');
  }
+ public function freeGuide(){
+  return  view('free_business_idea_ebook');
+}
+public function downloadguide(){
+  return  view('download_free_guide');
+}
 
     public function index(){
       // $clientIP = request()->ip();

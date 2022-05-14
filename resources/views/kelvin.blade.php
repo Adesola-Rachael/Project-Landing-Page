@@ -1,8 +1,9 @@
 <?php
 $email="#";
 $instagram="#";
-// $whatsapp="https://tinyurl.com/5xaanbm2";
-$whatsapp="#";
+// $whatsapp="https://api.whatsapp.com/send?phone=2347035190263&amp;text=I'm%20interested%20in%20getting%20the%20Natural%20Health%20Solution"
+$whatsapp="https://api.whatsapp.com/send?phone=2347035190263&amp;text=My%20name%20is%20(type%20your%20name%20here).%20I%20need%20a%20copy%20of%20the%20+%20Business%20Idea%20ebook";   
+// $whatsapp="#";
 
 $facebook="#";
 $linkedin="#";
@@ -135,8 +136,7 @@ $twitter="#";
         </header>
         <div class="row about-extra">
           <div class="col-lg-6" data-aos="fade-right">
-            <img src="assets/img/kelvin_book.png" class="img-fluid" alt="">
-          </div>
+           </div>
           <div class="col-lg-6 pt-5 pt-lg-0 abo" data-aos="fade-left">
             <h2 class="btn btn-success "  style="border-radius:15px; "><a style="color:#fff; font-size:20px;" href="<?php echo $whatsapp;  ?>" >Download Your Free Guide Now!</a></h2>
             <p > My name is Coach John, a successful online business coach/mentor.  </p>

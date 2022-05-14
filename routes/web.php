@@ -42,7 +42,9 @@ Route::post('postdata',[paymentController::class, 'postData']);
 Route::get('/car_tracking_installation',[paymentController::class,'carTracker'] );
 Route::get('/health_solution',[paymentController::class,'health'] );
 
+Route::get('/free_business_idea_ebook',[paymentController::class,'freeGuide'] );
 
+Route::get('/download_free_guide',[paymentController::class,'downloadguide'] );
 
 Route::get('/calc',function(){
  return view('calc');
