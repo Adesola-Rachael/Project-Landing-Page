@@ -23,6 +23,9 @@ class paymentController extends Controller
 public function downloadguide(){
   return  view('download_free_guide');
 }
+public function home_tutor(){
+  return  view('home_tutor');
+}
 
     public function index(){
       // $clientIP = request()->ip();

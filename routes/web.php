@@ -46,6 +46,9 @@ Route::get('/free_business_idea_ebook',[paymentController::class,'freeGuide'] );
 
 Route::get('/download_free_guide',[paymentController::class,'downloadguide'] );
 
+Route::get('/home_tutor',[paymentController::class,'home_tutor'] );
+
+
 Route::get('/calc',function(){
  return view('calc');
 });
